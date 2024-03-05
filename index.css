@@ -1,0 +1,421 @@
+.landing-page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.landing-page-landing-page {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 60px;
+  background-color: rgba(255, 255, 255, 1);
+  max-width: fit-content;
+}
+.landing-page-group603 {
+  top: 70px;
+  left: 1217px;
+  width: 514px;
+  height: 47px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-rectangle1390 {
+  top: 0px;
+  left: 386px;
+  width: 128px;
+  height: 47px;
+  position: absolute;
+}
+.landing-page-text {
+  top: 11px;
+  left: 282px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Abril Fatface;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-text02 {
+  top: 11px;
+  left: 403px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Abril Fatface;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-group595 {
+  top: 78px;
+  left: 118px;
+  width: 44px;
+  height: 29px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-line3 {
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 1px;
+  position: absolute;
+}
+.landing-page-line4 {
+  top: 15px;
+  left: 0px;
+  width: 29px;
+  height: 1px;
+  position: absolute;
+}
+.landing-page-line5 {
+  top: 29px;
+  left: 0px;
+  width: 29px;
+  height: 1px;
+  position: absolute;
+}
+.landing-page-layerx00201 {
+  top: 60px;
+  left: 846px;
+  width: 228px;
+  height: 55.87329864501953px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-frame2359904421376 {
+  top: 0px;
+  left: 0px;
+  width: 228px;
+  height: 55.87329864501953px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-group {
+  top: 18.98004913330078px;
+  left: 0px;
+  width: 228.00003051757812px;
+  height: 36.893314361572266px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-vector {
+  top: 10.805718421936035px;
+  left: 99.03490447998047px;
+  width: 7px;
+  height: 26px;
+  position: absolute;
+}
+.landing-page-vector1 {
+  top: 0.00006906491034897044px;
+  left: 99.03490447998047px;
+  width: 39px;
+  height: 37px;
+  position: absolute;
+}
+.landing-page-vector2 {
+  top: 0.00006906491034897044px;
+  left: 49.40222930908203px;
+  width: 42px;
+  height: 37px;
+  position: absolute;
+}
+.landing-page-vector3 {
+  top: 0.00006906491034897044px;
+  left: 145.51913452148438px;
+  width: 42px;
+  height: 37px;
+  position: absolute;
+}
+.landing-page-group599 {
+  top: 193px;
+  left: 197px;
+  width: 668px;
+  height: 337px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-group597 {
+  top: 0px;
+  left: 0px;
+  width: 668px;
+  height: 337px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-text04 {
+  color: rgba(8, 21, 42, 1);
+  height: auto;
+  position: absolute;
+  font-size: 120px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Advent Pro;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-text06 {
+  top: 257px;
+  left: 5px;
+  color: rgba(215, 215, 215, 1);
+  width: 532px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Regular;
+  text-align: justified;
+  font-family: Abril Fatface;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-text08 {
+  top: 165px;
+  left: 5px;
+  color: rgba(189, 23, 23, 1);
+  height: auto;
+  position: absolute;
+  font-size: 50px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Alice;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-smartwaatch5 {
+  top: 165px;
+  left: 992px;
+  width: 566px;
+  height: 507px;
+  position: absolute;
+}
+.landing-page-group598 {
+  top: 540px;
+  left: 1827px;
+  width: 23.21875px;
+  height: 35.21875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-line6 {
+  top: 0px;
+  left: 0px;
+  width: 27px;
+  height: 1px;
+  position: absolute;
+}
+.landing-page-line7 {
+  top: 16px;
+  left: 23.21875px;
+  width: 27px;
+  height: 1px;
+  position: absolute;
+}
+.landing-page-group602 {
+  top: 1009px;
+  left: 854px;
+  width: 23.21875px;
+  height: 35.21875px;
+  display: flex;
+  opacity: 0.20;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-line61 {
+  top: 0px;
+  left: 0px;
+  width: 27px;
+  height: 1px;
+  position: absolute;
+}
+.landing-page-line71 {
+  top: 23.21875px;
+  left: 16px;
+  width: 27px;
+  height: 1px;
+  position: absolute;
+}
+.landing-page-group600 {
+  top: 607px;
+  left: 83px;
+  width: 648px;
+  height: 359px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-rectangle1394 {
+  top: 133px;
+  left: 0px;
+  width: 648px;
+  height: 222px;
+  position: absolute;
+  border-radius: 41px;
+}
+.landing-page-text09 {
+  left: 97.2745132446289px;
+  color: rgba(255, 255, 255, 1);
+  width: 126px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Abyssinica SIL;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-text11 {
+  top: 41px;
+  left: 170.8235321044922px;
+  color: rgba(255, 255, 255, 1);
+  width: 84px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Actor;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-text13 {
+  top: 225px;
+  left: 326px;
+  color: rgba(255, 255, 255, 1);
+  width: 284px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Actor;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-text18 {
+  top: 169px;
+  left: 324px;
+  color: rgba(255, 255, 255, 1);
+  width: 284px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Abyssinica SIL;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-blanco1 {
+  top: 60px;
+  left: 4.745098114013672px;
+  width: 355px;
+  height: 299px;
+  position: absolute;
+}
+.landing-page-group604 {
+  top: 667px;
+  left: 786px;
+  width: 688.999755859375px;
+  height: 295px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-rectangle1395 {
+  top: 73px;
+  left: 0px;
+  width: 665px;
+  height: 222px;
+  position: absolute;
+  border-radius: 41px;
+}
+.landing-page-text20 {
+  top: 109px;
+  left: 319px;
+  color: rgba(255, 255, 255, 1);
+  width: 284px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Abyssinica SIL;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-text22 {
+  top: 165px;
+  left: 319px;
+  color: rgba(255, 255, 255, 1);
+  width: 284px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Actor;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-blanco2 {
+  top: 0px;
+  left: 2px;
+  width: 354px;
+  height: 279px;
+  position: absolute;
+}
